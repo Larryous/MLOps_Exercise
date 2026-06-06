@@ -1,0 +1,17 @@
+pyproject.toml
+mlops_ecercise/tasks.py
+mlops_ecercise/src/mlops_practice/__init__.py
+mlops_ecercise/src/mlops_practice/api.py
+mlops_ecercise/src/mlops_practice/data.py
+mlops_ecercise/src/mlops_practice/evaluate.py
+mlops_ecercise/src/mlops_practice/model.py
+mlops_ecercise/src/mlops_practice/train.py
+mlops_ecercise/src/mlops_practice/visualize.py
+mlops_ecercise/tests/__init__.py
+mlops_ecercise/tests/test_api.py
+mlops_ecercise/tests/test_data.py
+mlops_ecercise/tests/test_model.py
+my_package_name.egg-info/PKG-INFO
+my_package_name.egg-info/SOURCES.txt
+my_package_name.egg-info/dependency_links.txt
+my_package_name.egg-info/top_level.txt
