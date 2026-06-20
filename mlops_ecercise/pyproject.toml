@@ -33,3 +33,8 @@ select = ["I", "N", "E", "W", ]
 
 [tool.coverage.run]
 omit = ["tests/*"]
+
+[project.scripts]
+evaluate = "mlops_practice.evaluate:evaluate"
+visualize = "mlops_practice.visualize:visualize"
+train = "mlops_practice.train:train"
